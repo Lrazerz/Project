@@ -1,0 +1,14 @@
+D:\GitHub\Labsg\FallenString\FallenString\bin\Debug\FallenString.exe.config
+D:\GitHub\Labsg\FallenString\FallenString\bin\Debug\FallenString.exe
+D:\GitHub\Labsg\FallenString\FallenString\bin\Debug\FallenString.pdb
+D:\GitHub\Labsg\FallenString\FallenString\obj\Debug\FallenString.csprojAssemblyReference.cache
+D:\GitHub\Labsg\FallenString\FallenString\obj\Debug\FallenString.csproj.CoreCompileInputs.cache
+D:\GitHub\Labsg\FallenString\FallenString\obj\Debug\FallenString.exe
+D:\GitHub\Labsg\FallenString\FallenString\obj\Debug\FallenString.pdb
+D:\Project\Project\Fun_with_FallenString\FallenString\bin\Debug\FallenString.exe.config
+D:\Project\Project\Fun_with_FallenString\FallenString\bin\Debug\FallenString.exe
+D:\Project\Project\Fun_with_FallenString\FallenString\bin\Debug\FallenString.pdb
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Debug\FallenString.csprojAssemblyReference.cache
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Debug\FallenString.csproj.CoreCompileInputs.cache
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Debug\FallenString.exe
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Debug\FallenString.pdb
