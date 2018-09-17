@@ -13,7 +13,8 @@ namespace FallenString
         static object locker = new object();
         static int ChLength = Chinese.Length - 1;
         static Random rand = new Random();
-
+        
+        //Логика для вывода столбцов
         public static void Method(object x)
         {
             int maxlength = 29;

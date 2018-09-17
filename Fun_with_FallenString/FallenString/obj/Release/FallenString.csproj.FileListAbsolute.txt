@@ -1,0 +1,7 @@
+D:\Project\Project\Fun_with_FallenString\FallenString\bin\Release\FallenString.exe.config
+D:\Project\Project\Fun_with_FallenString\FallenString\bin\Release\FallenString.exe
+D:\Project\Project\Fun_with_FallenString\FallenString\bin\Release\FallenString.pdb
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Release\FallenString.csprojAssemblyReference.cache
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Release\FallenString.csproj.CoreCompileInputs.cache
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Release\FallenString.exe
+D:\Project\Project\Fun_with_FallenString\FallenString\obj\Release\FallenString.pdb
