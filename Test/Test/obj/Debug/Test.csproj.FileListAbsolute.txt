@@ -1,0 +1,14 @@
+D:\Project\Project\Test\Test\bin\Debug\Test.exe.config
+D:\Project\Project\Test\Test\bin\Debug\Test.exe
+D:\Project\Project\Test\Test\bin\Debug\Test.pdb
+D:\Project\Project\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Project\Project\Test\Test\obj\Debug\Test.Form1.resources
+D:\Project\Project\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Project\Project\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Project\Project\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Project\Project\Test\Test\obj\Debug\Test.exe
+D:\Project\Project\Test\Test\obj\Debug\Test.pdb
+D:\Project\Project\Test\Test\bin\Debug\MySql.Data.dll
+D:\Project\Project\Test\Test\bin\Debug\Google.Protobuf.dll
+D:\Project\Project\Test\Test\bin\Debug\MySql.Data.xml
+D:\Project\Project\Test\Test\obj\Debug\Test.csproj.CopyComplete
